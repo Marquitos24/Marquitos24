@@ -1,16 +1,29 @@
 Hola a todos,
 
-Soy Marcos Jodar, un entusiasta de la tecnología a punto de graduarme en Desarrollo de Aplicaciones Multiplataforma (DAM). Durante mis dos años de estudio, me he sumergido en el emocionante mundo del desarrollo de software, adquiriendo habilidades sólidas para enfrentar diferentes desafíos tecnológicos.
+Soy Marcos Jodar, un entusiasta de la tecnologí. Durante mis dos años de estudio en Desarrollo de Aplicaciones Multiplataforma (DAM), me he sumergido en el emocionante mundo del desarrollo de software, adquiriendo habilidades sólidas para enfrentar diferentes desafíos tecnológicos.
 
 Me especializo en el desarrollo de aplicaciones versátiles y de alta calidad que respondan a las necesidades cambiantes de la industria, ademas de crear un diseño atractivo. He trabajado con:
+- Lenguajes como Java, Kotlin, Python y JavaScript.
+<img src="![image](https://github.com/Marquitos24/Marquitos24/assets/146169288/ffd691d0-0fa4-40df-9480-b9bc1f153352)">
+<img src="![image](https://github.com/Marquitos24/Marquitos24/assets/146169288/74b2088a-d0ad-410a-be54-9cd92bc75369)">
+<img src="![image](https://github.com/Marquitos24/Marquitos24/assets/146169288/927d3bd9-6678-40bb-a810-67644a21f6e2)">
+<img src="![image](https://github.com/Marquitos24/Marquitos24/assets/146169288/f72b3610-8da9-47cc-ba0c-0eaf3c31d5e1)">
 
-Lenguajes como Java, Kotlin, Python y JavaScript, así como frameworks como Angular y React para aplicaciones web y móviles.
-Diseño de bases de datos relacionales y no relacionales, como MySQL y PostgreSQL.
-Soluciones de seguridad para proteger la integridad y privacidad de los datos.
-Integración de APIs para mejorar la funcionalidad y conectividad de las aplicaciones.
-Pruebas de software y depuración para garantizar la calidad y fiabilidad de las aplicaciones.
+- Así como frameworks como Angular y React para aplicaciones web y móviles.
+<img src="![image](https://github.com/Marquitos24/Marquitos24/assets/146169288/0e180462-feb9-4dde-a87e-8f27c5cd2b4c)">
+<img src="![image](https://github.com/Marquitos24/Marquitos24/assets/146169288/ba82c333-9821-4ae7-9ac7-6f70ac45b277)">
 
-Estoy deseando aplicar mis conocimientos en entornos profesionales, colaborando con equipos para crear soluciones innovadoras y eficientes. Deseo seguir aprendiendo las nuevas tecnologías que continúan transformando la industria.
+- Diseño de bases de datos relacionales y no relacionales, como MySQL y PostgreSQL.
+<img src="![image](https://github.com/Marquitos24/Marquitos24/assets/146169288/647bf157-4cde-426c-ad51-b2691bdb9d0a)">
+<img src="![image](https://github.com/Marquitos24/Marquitos24/assets/146169288/67725ef1-be33-4e8b-bb02-20e4bd4aff1e)">
+  
+- Soluciones de seguridad para proteger la integridad y privacidad de los datos, como Spring Security.
+<img src="![image](https://github.com/Marquitos24/Marquitos24/assets/146169288/88fb25af-9855-4e1a-bd17-f8af251a3ffc)">
+
+- Integración de APIs para mejorar la funcionalidad y conectividad de las aplicaciones.
+<mig src="![image](https://github.com/Marquitos24/Marquitos24/assets/146169288/116869b5-b636-4b35-8c47-dce1e63b8823)">
+
+- Pruebas de software y depuración para garantizar la calidad y fiabilidad de las aplicaciones.
 
 <!--
 **Marquitos24/Marquitos24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
