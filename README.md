@@ -15,7 +15,7 @@ Me especializo en el desarrollo de aplicaciones versátiles y de alta calidad qu
 <img src="https://github.com/Marquitos24/Marquitos24/assets/146169288/ba82c333-9821-4ae7-9ac7-6f70ac45b277" width="200">
 
 - Diseño de bases de datos relacionales y no relacionales, como MySQL y PostgreSQL.
-<img src="https://github.com/Marquitos24/Marquitos24/assets/146169288/647bf157-4cde-426c-ad51-b2691bdb9d0a" width="200">
+<img src="https://github.com/Marquitos24/Marquitos24/assets/146169288/647bf157-4cde-426c-ad51-b2691bdb9d0a" width="200" hspace="50">
 <img src="https://github.com/Marquitos24/Marquitos24/assets/146169288/67725ef1-be33-4e8b-bb02-20e4bd4aff1e" width="200">
   
 - Soluciones de seguridad para proteger la integridad y privacidad de los datos, como Spring Security.
