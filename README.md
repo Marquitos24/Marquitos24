@@ -22,7 +22,7 @@ Me especializo en el desarrollo de aplicaciones versátiles y de alta calidad qu
 <img src="https://github.com/Marquitos24/Marquitos24/assets/146169288/88fb25af-9855-4e1a-bd17-f8af251a3ffc" width="200" alt="Spring Security">
 
 - Integración de APIs para mejorar la funcionalidad y conectividad de las aplicaciones.
-<img src="https://github.com/Marquitos24/Marquitos24/assets/146169288/116869b5-b636-4b35-8c47-dce1e63b8823" width="300" alt="Api" position="absolute" left="30%">
+<img src="https://github.com/Marquitos24/Marquitos24/assets/146169288/116869b5-b636-4b35-8c47-dce1e63b8823" width="300" alt="Api" position="absolute" left="30">
 
 - Pruebas de software y depuración para garantizar la calidad y fiabilidad de las aplicaciones.
 
