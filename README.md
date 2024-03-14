@@ -5,10 +5,10 @@ Soy Marcos Jodar, un entusiasta de la tecnologí. Durante mis dos años de estud
 Me especializo en el desarrollo de aplicaciones versátiles y de alta calidad que respondan a las necesidades cambiantes de la industria, además de crear un diseño atractivo. He trabajado con:
 
 - Lenguajes como Java, Kotlin, Python y JavaScript.
-<img src="https://github.com/Marquitos24/Marquitos24/assets/146169288/ffd691d0-0fa4-40df-9480-b9bc1f153352" width="200" hspace="40">
-<img src="https://github.com/Marquitos24/Marquitos24/assets/146169288/74b2088a-d0ad-410a-be54-9cd92bc75369" width="200" hspace="40">
-<img src="https://github.com/Marquitos24/Marquitos24/assets/146169288/927d3bd9-6678-40bb-a810-67644a21f6e2" width="200" hspace="40">
-<img src="https://github.com/Marquitos24/Marquitos24/assets/146169288/f72b3610-8da9-47cc-ba0c-0eaf3c31d5e1" width="100" hspace="40">
+<img src="https://github.com/Marquitos24/Marquitos24/assets/146169288/ffd691d0-0fa4-40df-9480-b9bc1f153352" width="200" hspace="30">
+<img src="https://github.com/Marquitos24/Marquitos24/assets/146169288/74b2088a-d0ad-410a-be54-9cd92bc75369" width="200" hspace="30">
+<img src="https://github.com/Marquitos24/Marquitos24/assets/146169288/927d3bd9-6678-40bb-a810-67644a21f6e2" width="200" hspace="30">
+<img src="https://github.com/Marquitos24/Marquitos24/assets/146169288/f72b3610-8da9-47cc-ba0c-0eaf3c31d5e1" width="100" hspace="30">
 
 - Así como frameworks como Angular y React para aplicaciones web y móviles.
 <img src="https://github.com/Marquitos24/Marquitos24/assets/146169288/0e180462-feb9-4dde-a87e-8f27c5cd2b4c" width="200">
