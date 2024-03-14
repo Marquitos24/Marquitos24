@@ -11,7 +11,7 @@ Me especializo en el desarrollo de aplicaciones versátiles y de alta calidad qu
 <img src="https://github.com/Marquitos24/Marquitos24/assets/146169288/f72b3610-8da9-47cc-ba0c-0eaf3c31d5e1" width="100" hspace="30">
 
 - Así como frameworks como Angular y React para aplicaciones web y móviles.
-<img src="https://github.com/Marquitos24/Marquitos24/assets/146169288/0e180462-feb9-4dde-a87e-8f27c5cd2b4c" width="200">
+<img src="https://github.com/Marquitos24/Marquitos24/assets/146169288/0e180462-feb9-4dde-a87e-8f27c5cd2b4c" width="200" hspace="50">
 <img src="https://github.com/Marquitos24/Marquitos24/assets/146169288/ba82c333-9821-4ae7-9ac7-6f70ac45b277" width="200">
 
 - Diseño de bases de datos relacionales y no relacionales, como MySQL y PostgreSQL.
