@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://img.freepik.com/vector-premium/programador-codificacion-computadora-portatil-mesa-trabajo-mesa-vista-superior-ilustracion-dibujos-animados-plana_101884-626.jpg" alt="Imagen centrada" align="center">
 </p>
-#Hola soy Marcos Jodar
+<h1>Hola soy Marcos Jodar</h1>
 
 Soy un entusiasta de la tecnologí. Durante mis dos años de estudio en Desarrollo de Aplicaciones Multiplataforma (DAM), me he sumergido en el emocionante mundo del desarrollo de software, adquiriendo habilidades sólidas para enfrentar diferentes desafíos tecnológicos.
 
