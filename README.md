@@ -1,4 +1,4 @@
-![]( style="display: block; margin: 0 auto;")
+
 
 <p align="center">
   <img src="https://via.placeholder.com/200](https://img.freepik.com/vector-premium/programador-codificacion-computadora-portatil-mesa-trabajo-mesa-vista-superior-ilustracion-dibujos-animados-plana_101884-626.jpg" alt="Imagen centrada">
