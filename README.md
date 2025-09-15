@@ -18,8 +18,8 @@ Me especializo en el desarrollo de aplicaciones versátiles y de alta calidad qu
 
 ### <img src="">demas de Desarrollo Front-end como HTML5 y CSS3.
 <div align="center">
-<img src="https://logosdown.com/wp-content/uploads/2023/08/html5-logo-1088x1536.png">
-<img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png">
+<img src="https://logosdown.com/wp-content/uploads/2023/08/html5-logo-1088x1536.png" width="40" hspace="30">
+<img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" width="40" hspace="30">
 </div>
 
 
