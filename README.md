@@ -8,7 +8,7 @@ Soy un entusiasta de la tecnologí. Durante mis dos años de estudio en Desarrol
 
 Me especializo en el desarrollo de aplicaciones versátiles y de alta calidad que respondan a las necesidades cambiantes de la industria, además de crear un diseño atractivo. He trabajado con:
 
-<h3><img src="https://pngimg.com/uploads/wrench/wrench_PNG103093.png"> Lenguajes de programción como Java, Kotlin, Python y JavaScript.</h3> 
+<h3><img src="https://pngimg.com/uploads/wrench/wrench_PNG103093.png" width="20" hspace="30"> Lenguajes de programción como Java, Kotlin, Python y JavaScript.</h3> 
 <div  align="center">
 <img src="https://github.com/Marquitos24/Marquitos24/assets/146169288/ffd691d0-0fa4-40df-9480-b9bc1f153352" width="200" hspace="30" alt="Java">
 <img src="https://github.com/Marquitos24/Marquitos24/assets/146169288/74b2088a-d0ad-410a-be54-9cd92bc75369" width="200" hspace="30" alt="Kotlin">
