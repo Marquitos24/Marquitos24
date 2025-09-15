@@ -8,7 +8,7 @@ Soy un entusiasta de la tecnologí. Durante mis dos años de estudio en Desarrol
 
 Me especializo en el desarrollo de aplicaciones versátiles y de alta calidad que respondan a las necesidades cambiantes de la industria, además de crear un diseño atractivo. He trabajado con:
 
-<h3>![hfh](https://pngimg.com/uploads/wrench/wrench_PNG103093.png) Lenguajes de programción como Java, Kotlin, Python y JavaScript.</h3>
+<h3><img src="https://pngimg.com/uploads/wrench/wrench_PNG103093.png"> Lenguajes de programción como Java, Kotlin, Python y JavaScript.</h3> 
 <div  align="center">
 <img src="https://github.com/Marquitos24/Marquitos24/assets/146169288/ffd691d0-0fa4-40df-9480-b9bc1f153352" width="200" hspace="30" alt="Java">
 <img src="https://github.com/Marquitos24/Marquitos24/assets/146169288/74b2088a-d0ad-410a-be54-9cd92bc75369" width="200" hspace="30" alt="Kotlin">
@@ -16,31 +16,31 @@ Me especializo en el desarrollo de aplicaciones versátiles y de alta calidad qu
 <img src="https://github.com/Marquitos24/Marquitos24/assets/146169288/f72b3610-8da9-47cc-ba0c-0eaf3c31d5e1" width="100" hspace="30" alt="JavaScript">
 </div>
 
-<h3>![]()Ademas de Desarrollo Front-end como HTML5 y CSS3.</h3>
+<h3><img src="">demas de Desarrollo Front-end como HTML5 y CSS3.</h3>
 <div align="center">
 <img src="https://logosdown.com/wp-content/uploads/2023/08/html5-logo-1088x1536.png">
 <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png">
 </div>
 
 
-<h3>![]()Así como frameworks como Angular y React para aplicaciones web y móviles.</h3>
+<h3><img src="">Así como frameworks como Angular y React para aplicaciones web y móviles.</h3>
 <div  align="center">
 <img src="https://github.com/Marquitos24/Marquitos24/assets/146169288/0e180462-feb9-4dde-a87e-8f27c5cd2b4c" width="200" hspace="50" alt="Angular">
 <img src="https://github.com/Marquitos24/Marquitos24/assets/146169288/ba82c333-9821-4ae7-9ac7-6f70ac45b277" width="200" alt="React">
 </div>
 
-<h3>![]()Diseño de bases de datos relacionales y no relacionales, como MySQL y PostgreSQL.</h3>
+<h3><img src="">Diseño de bases de datos relacionales y no relacionales, como MySQL y PostgreSQL.</h3>
 <div align="center">
 <img src="https://github.com/Marquitos24/Marquitos24/assets/146169288/647bf157-4cde-426c-ad51-b2691bdb9d0a" width="200" hspace="50" alt="Mysql">
 <img src="https://github.com/Marquitos24/Marquitos24/assets/146169288/67725ef1-be33-4e8b-bb02-20e4bd4aff1e" width="200" alt="Postgresql">
   </div>
   
-<h3>![]()Soluciones de seguridad para proteger la integridad y privacidad de los datos, como Spring Security.</h3>
+<h3><img src="">Soluciones de seguridad para proteger la integridad y privacidad de los datos, como Spring Security.</h3>
 <div align="center">
 <img src="https://github.com/Marquitos24/Marquitos24/assets/146169288/88fb25af-9855-4e1a-bd17-f8af251a3ffc" width="200" alt="Spring Security">
 </div>
 
-<h3>![]()Integración de APIs para mejorar la funcionalidad y conectividad de las aplicaciones.</h3>
+<h3><img src="">Integración de APIs para mejorar la funcionalidad y conectividad de las aplicaciones.</h3>
 <div align="center">
 <img src="https://github.com/Marquitos24/Marquitos24/assets/146169288/116869b5-b636-4b35-8c47-dce1e63b8823" width="300" alt="Api">
 </div>
